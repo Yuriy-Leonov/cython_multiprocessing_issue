@@ -7,7 +7,7 @@ Python - 3.6.6
 ### Steps to reproduce:
 1) Setup `requirements.txt`
 2) run `python setup.py build`
-3) run `build/exe.linux-x86_64-3.6`
+3) move to `build/exe.linux-x86_64-3.6`
 4) run `./main_script`
 
 ###N OTE!
